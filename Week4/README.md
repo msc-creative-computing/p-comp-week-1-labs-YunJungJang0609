@@ -12,7 +12,7 @@ I guess I need more powerful battery to make it spin.
 
 Hook up a servo and make it move using pwm.
 
-[![Servo](/img/Servo.jpg)](https://youtu.be/Z2E9NnBb3W4)
+[![Servo](https://img.youtu.be/Z2E9NnBb3W4.0.jpg)](https://youtu.be/Z2E9NnBb3W4)
 
 
 ## Lab03 Hook up a motor 

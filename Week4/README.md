@@ -5,8 +5,10 @@
 [![Making a motor with battery and magnet](img/Electric_Magnet.jpg)](https://youtu.be/_6ELPJQUE6c)
 
 I tried to create a motor using battery, magnet and copper wire.
-As I didn't have a big magnet, I tried to create a electric magnet using copper wire and small knife.
+As I didn't have a big magnet, I made a electric magnet using copper wire and small knife.
 I guess I need more powerful battery to make it spin.
+
+**** After a meeting with Phoenix, I realised that the metal part need to be perfectly balanced.
 
 ## Lab02 Hook up a servo
 
@@ -32,6 +34,13 @@ Do this tutorial (https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-t
 
 Base code from: (https://playground.arduino.cc/Main/CapacitiveSensor/)
 
-I made a simple piano with Arduino!
+I made a piano with Arduino with MPR121 and piezo buzzer!
 
+How I made the circuit:
+![Piano](img/Piano_Schematic.jpg)
+
+This is my first attempt:
 [![Piano](img/Piano.jpg)](https://youtu.be/Oa3LDMQoXF8)]
+
+This is an advanced version of the piano:
+[![Piano](img/Final_Piano.jpg)](https://youtu.be/xRiqBFI6VEw)]

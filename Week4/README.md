@@ -40,7 +40,7 @@ How I made the circuit:
 ![Piano](img/Piano_Schematic.jpg)
 
 This is my first attempt:
-[![Piano](img/Piano.jpg)](https://youtu.be/Oa3LDMQoXF8)]
+[![Piano](img/Piano.jpg)](https://youtu.be/Oa3LDMQoXF8)
 
 This is an advanced version of the piano:
-[![Piano](img/Final_Piano.jpg)](https://youtu.be/xRiqBFI6VEw)]
+[![Piano](img/Final_Piano.jpg)](https://youtu.be/xRiqBFI6VEw)

@@ -11,7 +11,9 @@
 */
 
 int led = 9;           // the PWM pin the LED is attached to
-//int fadeAmount = 5;    // how many points to fade the LED by
+int fadeAmount = 0;    // how many points to fade the LED by
+
+int i;
 
 // the setup routine runs once when you press reset:
 void setup() {
@@ -23,16 +25,23 @@ void setup() {
 // the loop routine runs over and over again forever:
 void loop() {
   // read the input on analog pin 0:
-  int sensorValue = analogRead(A0);
+  //int sensorValue = analogRead(A0);
   // Convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 5V):
-  float voltage = sensorValue * (5.0 / 1023.0);
+  //float voltage = sensorValue * (5.0 / 1023.0);
   // print out the value you read:
   //Serial.println(voltage);
 
 
-  int fadeAmount = voltage*200;
+  //int fadeAmount = voltage*200;
 
-Serial.println(fadeAmount);
+for(i = 0; i<=250; i++){
+  Serial.println(fadeAmount);
+  fadeAmount++;
   // set the brightness of pin 9:
   analogWrite(led, fadeAmount);
+  delay(10);
+}
+
+
+
 }

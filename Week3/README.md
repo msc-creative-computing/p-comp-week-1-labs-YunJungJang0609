@@ -2,8 +2,7 @@
 
 ## Lab00 Soldering
 
-![Creating a push button1](img/button1.jpg){:width="50%"}
-![Creating a push button2](img/button2.jpg)
+<img src="img/button1.jpg" width="50%">
 <img src="img/button2.jpg" width="50%">
 
 We learned how to solder parts to a circuit. I made 2 different push buttons.

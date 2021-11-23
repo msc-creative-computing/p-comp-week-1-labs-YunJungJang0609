@@ -2,12 +2,12 @@
 
 ## Making the puppet hand 
 
-<img src="img/Hand1.jpg"/>
+<img src="img/Hand1.jpg" width="50%"/>
 
 
 How does it move:
 
-<img src="img/Hand.gif"/>
+<img src="img/Hand.gif" width="50%"/>
 
 
 Combining with sounds. Fingers control the frequency and the tone of the sound:

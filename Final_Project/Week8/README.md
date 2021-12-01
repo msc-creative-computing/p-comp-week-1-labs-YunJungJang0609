@@ -1,28 +1,30 @@
 # Week 8
 
-## Lab01 Simple synths
+## Development progress of the week
 
-Creating noises with Arduino using Schmitt trigger, capacitor, light sensor and speaker!
+### Servo1, This is a servo to open the door to take out money.
 
-[![Lab01_1](img/Lab01_1.jpg)](https://youtu.be/1-I-X0Zb7-s)
+<img src="img/servo1.jpg" width="50%">
 
-[![Lab01_2](img/Lab01_2.jpg)](https://youtu.be/81tM7dkBoAI)
+<img src="img/openDoor.gif" width="50%">
 
-
-## Lab02 Advanced
-
-Using potentiometer to control noise.
-
-[![Lab02](img/Lab02.jpg)](https://youtu.be/Tix8F6yZEKw)
+When the servo motor rotates, it pushes the door to open.
 
 
-## Lab03 Making your first soft robot  
+### Servo2, This is a servo that reveals a hidden button.
 
-Playing with a waterslug:
+<img src="img/servo2.jpg" width="50%">
 
-<img src="img/waterslug.jpg" width="50%">
 
-[![Waterslug1](img/waterslug1.jpg)](https://youtu.be/0gkGudhBcRc)
+### LED strip
 
-[![Waterslug2](img/waterslug2.jpg)](https://youtu.be/Ea4OIXT9d1M)
+I made LED strip to work.
 
+<img src="img/LED.gif" width="50%">
+
+
+### Combining everything in the breadboard
+
+<img src="img/work.gif" width="50%">
+
+At the first time, LCD screen says to users to press the button underneath to open the money bank. That button is a fake one that gives an electric shock. When the pressure sensor detects pressure (coin weight), servo for the button rotates to open the door to show a hidden button (Servo2, check the image above). When the user presses the button, another servo motor rotates to take out the coins from the money bank. It opens for the certain amount of time then closes the door.

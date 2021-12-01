@@ -9,7 +9,6 @@ Above image is the advanced plan of the money bank.
 
 The drawing on the top is a perspective view which contains entire input and output plan. The second drawing is planning a space to put Arduino and battery to keep them away from the touch sensor. There will be a gap for electric wires to pass through.
 
- * The third drawing has been added on Week 8. This is explained in Week8 folder.
 
 
 ## Materials that I used

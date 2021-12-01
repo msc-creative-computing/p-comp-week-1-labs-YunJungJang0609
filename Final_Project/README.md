@@ -1,26 +1,24 @@
 # Shocking Money Bank!
 
-My project is making a money bank that gives an electric shock to its users when they try to take out money if the target amount is not reached.
+My project is making a money bank that gives an electric shock to its users when they try to take out money if the saving target amount is not reached.
 
 
 ## Result
 
-* This is the schematics of the final project.
+
+### This is the schematics of the final project.
 
 <img src="img/Schematic.jpg" width="50%"/>
 
 
-* This is the circuit diagram of the final project.
+### This is the circuit diagram of the final project.
 
 <img src="img/circuit.png" width="100%"/>
 
 
-* Click the below image to watch the play video of my final project!
+### Click the below image to watch the explanation video for my final project!
 
-[![Final](img/Final.jpg)](https://https://youtu.be/ZJ3u2PIxqNI)
-
-At the first time, LCD screen says to users to press the button underneath to open the money bank. That button is a fake one that gives an electric shock. When the pressure sensor detects pressure (This should be the coin weight but I used a heavy object as I don't have enough coins), servo for the button rotates to open the door to show a hidden button. When the user presses the button, another servo motor rotates to take out the coins from the money bank. It opens for the certain amount of time then closes the door.
-
+[![Final](img/Final.jpg)](https://youtu.be/d1J9JTG7y0E)
 
 
 ## Links

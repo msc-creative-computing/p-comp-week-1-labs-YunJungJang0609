@@ -28,3 +28,5 @@ I made LED strip to work.
 <img src="img/work.gif" width="50%">
 
 At the first time, LCD screen says to users to press the button underneath to open the money bank. That button is a fake one that gives an electric shock. When the pressure sensor detects pressure (coin weight), servo for the button rotates to open the door to show a hidden button (Servo2, check the image above). When the user presses the button, another servo motor rotates to take out the coins from the money bank. It opens for the certain amount of time then closes the door.
+
+Check the full video here: (https://youtu.be/WPOSl1WY1HE)

@@ -1,28 +1,17 @@
-# Week 8
+# Week 9
 
-## Lab01 Simple synths
+## LCD brightness change
 
-Creating noises with Arduino using Schmitt trigger, capacitor, light sensor and speaker!
-
-[![Lab01_1](img/Lab01_1.jpg)](https://youtu.be/1-I-X0Zb7-s)
-
-[![Lab01_2](img/Lab01_2.jpg)](https://youtu.be/81tM7dkBoAI)
+<img src="img/LCD.gif" width="50%">
 
 
-## Lab02 Advanced
+## Combine everything!
 
-Using potentiometer to control noise.
+I soldered everything to combine parts.
 
-[![Lab02](img/Lab02.jpg)](https://youtu.be/Tix8F6yZEKw)
+<img src="img/solder.jpg" width="50%">
+
+<img src="img/combine.jpg" width="50%">
 
 
-## Lab03 Making your first soft robot  
-
-Playing with a waterslug:
-
-<img src="img/waterslug.jpg" width="50%">
-
-[![Waterslug1](img/waterslug1.jpg)](https://youtu.be/0gkGudhBcRc)
-
-[![Waterslug2](img/waterslug2.jpg)](https://youtu.be/Ea4OIXT9d1M)
 

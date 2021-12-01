@@ -2,29 +2,30 @@
 
 My project is making a money bank that gives an electric shock to its users when they try to take out money if the target amount is not reached.
 
-## Lab01 Simple synths
 
-Creating noises with Arduino using Schmitt trigger, capacitor, light sensor and speaker!
+## Result
 
-[![Lab01_1](img/Lab01_1.jpg)](https://youtu.be/1-I-X0Zb7-s)
+* This is the circuit diagram of the final project.
 
-[![Lab01_2](img/Lab01_2.jpg)](https://youtu.be/81tM7dkBoAI)
-
-
-## Lab02 Advanced
-
-Using potentiometer to control noise.
-
-[![Lab02](img/Lab02.jpg)](https://youtu.be/Tix8F6yZEKw)
+<img src="img/circuit.png" width="50%"/>
 
 
-## Lab03 Making your first soft robot  
+* Click the below image to watch the play video of my final project!
 
-Playing with a waterslug:
+[![Final](img/Final.jpg)](https://https://youtu.be/ZJ3u2PIxqNI)
 
-<img src="img/waterslug.jpg" width="50%">
 
-[![Waterslug1](img/waterslug1.jpg)](https://youtu.be/0gkGudhBcRc)
 
-[![Waterslug2](img/waterslug2.jpg)](https://youtu.be/Ea4OIXT9d1M)
+## Links
+
+* Final project code: (https://github.com/msc-creative-computing/p-comp-week-1-labs-YunJungJang0609/blob/main/Final_Project/Final_Project/Final_Project.ino)
+
+* Week6 progress: (https://github.com/msc-creative-computing/p-comp-week-1-labs-YunJungJang0609/tree/main/Final_Project/Week6)
+
+* Week7 progress: (https://github.com/msc-creative-computing/p-comp-week-1-labs-YunJungJang0609/tree/main/Final_Project/Week7)
+
+* Week8 progress: (https://github.com/msc-creative-computing/p-comp-week-1-labs-YunJungJang0609/tree/main/Final_Project/Week8)
+
+* Week9 progress: (https://github.com/msc-creative-computing/p-comp-week-1-labs-YunJungJang0609/tree/main/Final_Project/Week9)
+
 

@@ -7,6 +7,8 @@ My project is making a money bank that gives an electric shock to its users when
 
 * This is the schematics of the final project.
 
+<img src="img/Schematic.jpg" width="50%"/>
+
 
 * This is the circuit diagram of the final project.
 
